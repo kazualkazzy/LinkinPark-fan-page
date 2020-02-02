@@ -60,6 +60,8 @@ files to create a better picture for new fans too.
 * Contact Us form works correctly
 
 # Design Choices:
+The theme of this project is a Linkin Park fans website. Knowing that this is alternative rock band colour scheme was picked to create 
+better atmosphere which suits band itself.
 
 ### Fonts:
 
