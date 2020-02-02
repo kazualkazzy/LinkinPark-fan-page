@@ -1,6 +1,8 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/vaida898/LinkinPark_fan_page) 
+
 # **Contents:**
 
-# ** UX (User experience) **
+# **UX (User experience)**
 
 ## ** Project Goals **
 
