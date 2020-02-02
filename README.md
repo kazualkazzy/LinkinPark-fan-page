@@ -44,6 +44,10 @@ files to create a better picture for new fans too.
 # User Requirements and Expectations:
 
 ### Requirements:
+* Menu items working smoothly and respond correctly
+* Be provided with informative articles and media files
+* Website content displayed in a suitable and not offensive manor
+* Contact form validation to get in touch with band
 
 ### Expectations:
 
