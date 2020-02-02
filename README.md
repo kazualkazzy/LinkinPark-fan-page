@@ -50,6 +50,14 @@ files to create a better picture for new fans too.
 * Contact form validation to get in touch with band
 
 ### Expectations:
+* Choisen menu options leads to a correct section of the website
+* Can click on a buttons and get expected response
+* Watch videos on a website
+* Content is visually approachable 
+* Pop out nav appears in place of navbar on Tablet + Mobile devices
+* Quick Links takes to a wanted part of the website
+* Social Links responds as suspected
+* Contact Us form works correctly
 
 # Design Choices:
 
