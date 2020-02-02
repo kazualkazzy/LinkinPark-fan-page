@@ -1,53 +1,74 @@
-# **Contents:
+# Contents:
+    * UX 
+    * Project Goals
+    * Target Audience Goals
+    * Site Owner Goals
+    * User Requirements and Expectations
+    * Design Choices 
+        * Fonts
+        * Icons
+        * Colours
+        * Styling
+        * Images
+        * Backgrounds
+    * Wireframes 
+    * Features 
+        * Features that have been developed
+        *  Features that will be implemented in the future
+    * Technologies Used 
+    * Testing 
+    * Bugs 
+    * Deployment 
+    * Credits 
 
-# **UX (User experience)
+# UX (User experience)
 
-## **Project Goals
+## Project Goals
 
-### **User Goals:
+### User Goals:
 
-### **Site Owner Goals:
+### Site Owner Goals:
 
-# **User Requirements and Expectations:
+# User Requirements and Expectations:
 
-### **Requirements:
+### Requirements:
 
-### **Expectations:
+### Expectations:
 
-# **Design Choices:
+# Design Choices:
 
-### **Fonts:
+### Fonts:
 
-### **Icons:
+### Icons:
 
-### **Colours:
+### Colours:
 
-### **Styling:
+### Styling:
 
-### **Background:
+### Background:
 
-# **Wireframes:
+# Wireframes:
 
-# **Features:
+# Features:
 
-# **Technologies Used:
+# Technologies Used:
 
-## **Languages:
+## Languages:
 
-## **Tools and Libraries:
+## Tools and Libraries:
 
-# **Testing:
+# Testing:
 
-### **Test planning:
+### Test planning:
 
-### **Testing stories
+### Testing stories
 
-# **Overall:
+# Overall:
 
-# **Bugs:
+# Bugs:
 
-# **Deployment:
+# Deployment:
 
-# **Closing Notes:
+# Closing Notes:
 
-# **Credits:
+# Credits:
