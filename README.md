@@ -68,7 +68,9 @@ My first choice of font was <a href="https://fonts.google.com/?query=Martel+Sans
 tidy and neat but also has soft edges to make text look not too heavy for a reader.
 
 ### Icons:
-
+The icons used as social links in footer section. They are all known social website's icons. I used 'font-awesome' 'Facebook', 'Instagram', 'Twitter'
+and 'Youtube' icons. I had to make sure they were reasonable size to be seen on a smaller devices too,
+  
 ### Colours:
 
 ### Styling:
