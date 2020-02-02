@@ -64,7 +64,7 @@ The theme of this project is a Linkin Park fans website. Knowing that this is al
 better atmosphere which suits band itself.
 
 ### Fonts:
-My first choice of font was <link href="https://fonts.googleapis.com/css?family=Martel+Sans&display=swap" rel="stylesheet"> because it looks
+My first choice of font was <a href="https://fonts.google.com/?query=Martel+Sans&selection.family=Lato">Martel+Sans</a> because it looks
 tidy and neat but also has soft edges to make text look not too heavy for a reader.
 
 ### Icons:
