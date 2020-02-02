@@ -29,6 +29,11 @@ and informative for users and fans interested in this band. Because it is a fan 
 files to create a better picture for new fans too.
 
 ### User Goals:
+* The website is easy to use and is User Friendly
+* Information on website is readable and easy to understand
+* Added pictures and videos are interactive and clear
+* Capability to send message cia contact form
+* Interact with the website on Desktop, Tablet and mobile 
 
 ### Site Owner Goals:
 
