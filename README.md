@@ -24,6 +24,9 @@
 # UX (User experience)
 
 ## Project Goals
+The goal of this project is to provide information about well known altrenative rock band Linkin Park. The website has to be attractive 
+and informative for users and fans interested in this band. Because it is a fan page it has to have pictures of band members and media 
+files to create a better picture for new fans too.
 
 ### User Goals:
 
