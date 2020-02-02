@@ -69,9 +69,16 @@ tidy and neat but also has soft edges to make text look not too heavy for a read
 
 ### Icons:
 The icons used as social links in footer section. They are all known social website's icons. I used 'font-awesome' 'Facebook', 'Instagram', 'Twitter'
-and 'Youtube' icons. I had to make sure they were reasonable size to be seen on a smaller devices too,
-  
+and 'Youtube' icons. I had to make sure they were reasonable size to be seen on a smaller devices too.
+
 ### Colours:
+* #fff (White)
+* #1E90FF (Dodgerblue)
+* #0000CD (Medium blue)
+* #F5F5F5 (White smoke)
+* #F08080 (Lightcoral)
+* #DCDCDC (Gainsboro)
+* #000 (Black)
 
 ### Styling:
 
