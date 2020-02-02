@@ -1,55 +1,53 @@
-[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/vaida898/LinkinPark_fan_page) 
+# **Contents:
 
-# **Contents:**
+# **UX (User experience)
 
-# **UX (User experience)**
+## **Project Goals
 
-## ** Project Goals **
+### **User Goals:
 
-### ** User Goals: **
+### **Site Owner Goals:
 
-### ** Site Owner Goals: **
+# **User Requirements and Expectations:
 
-# ** User Requirements and Expectations: **
+### **Requirements:
 
-### ** Requirements: **
+### **Expectations:
 
-### ** Expectations: **
+# **Design Choices:
 
-# ** Design Choices: **
+### **Fonts:
 
-### ** Fonts: **
+### **Icons:
 
-### ** Icons: **
+### **Colours:
 
-### ** Colours: **
+### **Styling:
 
-### ** Styling: **
+### **Background:
 
-### ** Background: **
+# **Wireframes:
 
-# ** Wireframes: **
+# **Features:
 
-# ** Features: **
+# **Technologies Used:
 
-# ** Technologies Used: **
+## **Languages:
 
-##  ** Languages: **
+## **Tools and Libraries:
 
-##  ** Tools and Libraries: **
+# **Testing:
 
-# ** Testing: **
+### **Test planning:
 
-### ** Test planning: **
+### **Testing stories
 
-### ** Testing stories **
+# **Overall:
 
-# ** Overall: **
+# **Bugs:
 
-# ** Bugs: **
+# **Deployment:
 
-# ** Deployment: **
+# **Closing Notes:
 
-# ** Closing Notes: **
-
-# ** Credits: **
+# **Credits:
