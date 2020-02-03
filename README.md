@@ -87,7 +87,7 @@ The background image I chose to on the banner I found via google search typing b
 More images can be found in About Us section of website and they are member's pictures for new and current band fans to recognise them in media.
 
 # Wireframes:
-I built wireframes for this project using <a href="https://balsamiq.com/">Balsamiq mockups</a> mockups. I created basic wireframes for Mobile/Tablet/Desktop
+I built wireframes for this project using <a href="https://balsamiq.com/">Balsamiq</a> mockups. I created basic wireframes for Mobile/Tablet/Desktop
 on Balsamiq to show how structurally elements would appear on the page for different devices.
 
 # Features:
