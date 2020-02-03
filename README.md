@@ -101,6 +101,9 @@ on Balsamiq to show how structurally elements would appear on the page for diffe
 
 ## Tools and Libraries:
 
+* <a href="https://getbootstrap.com/">Bootstrap</a>
+* <a href="https://fontawesome.com/icons?d=gallery">Font-Awesome</a>
+
 # Testing:
 
 ### Test planning:
