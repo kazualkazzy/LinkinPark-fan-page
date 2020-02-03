@@ -96,6 +96,9 @@ on Balsamiq to show how structurally elements would appear on the page for diffe
 
 ## Languages:
 
+* <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a>
+* <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a>
+
 ## Tools and Libraries:
 
 # Testing:
