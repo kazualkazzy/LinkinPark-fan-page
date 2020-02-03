@@ -86,6 +86,14 @@ and 'Youtube' icons. I had to make sure they were reasonable size to be seen on 
 The background image I chose to on the banner I found via google search typing bands name but link to it can be found in Credts section.
 More images can be found in About Us section of website and they are member's pictures for new and current band fans to recognise them in media.
 
+I found images on random websites via google search. 
+
+* <a href="https://www.bhmpics.com/">Bhmpics</a>
+* <a href="https://www.pinterest.com/">Pinterest</a>
+* <a href="https://www.phoenix.org">Phoenix</a>
+* <a href="https://www.complex.com/">Complex</a>
+* <a href="https://www.WordPress.com/">WordPress</a>
+
 # Wireframes:
 I built wireframes for this project using <a href="https://balsamiq.com/">Balsamiq</a> mockups. I created basic wireframes for Mobile/Tablet/Desktop
 on Balsamiq to show how structurally elements would appear on the page for different devices.
