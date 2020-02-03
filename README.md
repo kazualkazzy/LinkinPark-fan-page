@@ -127,3 +127,5 @@ on Balsamiq to show how structurally elements would appear on the page for diffe
 # Closing Notes:
 
 # Credits:
+
+* <a href="https://htmlcolorcodes.com/color-names/">Colour names and codes</a>
