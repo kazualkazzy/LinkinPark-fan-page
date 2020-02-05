@@ -1,5 +1,10 @@
-.header-logo img{
+#header_logo img{
     float:left;
     padding: 0;
     margin: 0;
+}
+
+#nav-list .li{
+    list-style-type: none;
+    font-style: italic;
 }
