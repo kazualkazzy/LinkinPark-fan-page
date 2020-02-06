@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Martel+Sans:100,200,300,400,500,600,700&display=swap');
 
-<--------------- Navigation bar ------------------------>
+/*--------------- Navigation bar ------------------------*/
 .navbar {
     background-color: black !important ;
     font-family: "Martel+Sans", sans-serif;
@@ -11,7 +11,7 @@
     color: #F5F5F5 !important;
     font-size: 20px;
     font-weight: bold;
-    text-shadow: 1px 1px #D2D2D2; 
+    text-shadow: 1px 1px #1E90FF; 
 }
 
 .navbar-brand img{
