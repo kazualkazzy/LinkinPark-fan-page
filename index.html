@@ -2,38 +2,53 @@
 <html lang="en">
 <head>
 
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>LinkinPark_fan_page</title>
+
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" type="text/css" />
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" type="text/css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.3.1/css/hover-min.css" type="text/css" />
     <link rel="stylesheet" href="assets/css/styles.css" type="text/css" />
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
-  
+    
 </head>
 
 <body>
 
-<nav class="header">
-    <div class="header d-flex">
-        <div class="header_logo">
-            <a aria-label="Logo" href="#"> <img src="assets/img/logo.jpg" alt="Logo"></a>
+<header>
+<!-- Nav -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-custom fixed-top">
+​
+        <!-- Logo -->
+        <a class="navbar-brand" href="index.html">
+            <img src="assets/img/logo.jpg" alt="Band Logo" title="Band Logo">
+        </a>
+​
+        <!-- Toggler Icon on Mobile -->
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+​
+        <!-- Navigation Links -->
+        <div class="collapse navbar-collapse" id="navbarNavDropdown">
+            <ul class="navbar-nav ml-auto uppercase">
+               <li class="nav-item active">
+                   <a class="nav-link" href="index.html">Home</a>
+               </li>
+                <li class="nav-item">
+                   <a class="nav-link" href="#">About Us</a>
+               </li>
+                <li class="nav-item">
+                   <a class="nav-link" href="#">Media</a>
+               </li>
+                <li class="nav-item">
+                   <a class="nav-link" href="#">Classes</a>
+               </li>
+            </ul>
         </div>
-
-    <ul class="nav-list d-flex flex-row-reverse">
-        <li class="nav-list-item"><a aria-label="Home" href="#">Home</a></li>
-        <li class="nav-list-item"><a aria-label="About Us" href="#">About Us</a></li>
-        <li class="nav-list-item"><a aria-label="Media" href="#">Media</a></li>
-        <li class="nav-list-item"><a aria-label="Contact Us" href="#">Contact Us</a></li>
-    </ul>
-
-
-
-
-    </div>
-
-</nav>
+    </nav>
+</header>
     
 </body>
 </html>

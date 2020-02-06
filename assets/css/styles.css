@@ -1,10 +1,7 @@
-#header_logo img{
-    float:left;
-    padding: 0;
-    margin: 0;
+.navbar-brand img{
+    width: 5rem;
+    height: 5rem;
 }
 
-#nav-list .li{
-    list-style-type: none;
-    font-style: italic;
-}
+
+
