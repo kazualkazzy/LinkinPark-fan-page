@@ -6,6 +6,8 @@
     font-family: "Martel+Sans", sans-serif;
 }
 
+/*--------------- Navigation bar item ------------------------*/
+
 .nav-link {
     margin-left: 20px;
     color: #F5F5F5 !important;
@@ -13,6 +15,9 @@
     font-weight: bold;
     text-shadow: 1px 1px #1E90FF; 
 }
+
+
+/*--------------- Navigation Logo ------------------------*/
 
 .navbar-brand img{
     width: 7rem;
