@@ -1,7 +1,22 @@
-.navbar-brand img{
-    width: 5rem;
-    height: 5rem;
+@import url('https://fonts.googleapis.com/css?family=Martel+Sans:100,200,300,400,500,600,700&display=swap');
+
+.navbar {
+    background-color: black;
+    font-family: "Martel+Sans", sans-serif;
 }
 
+.nav-link {
+    margin-left: 20px;
+    color: #F5F5F5 !important;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.navbar-brand img{
+    width: 7rem;
+    height: 7rem;
+    margin: 0;
+    
+}
 
 
