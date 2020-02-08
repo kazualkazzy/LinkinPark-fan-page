@@ -2,7 +2,7 @@
 
 /*--------------- Navigation bar ------------------------*/
 .navbar {
-    background-color: black !important ;
+   /* background-color: black !important ;*/
     font-family: "Martel+Sans", sans-serif;
 }
 
@@ -10,7 +10,7 @@
 
 .nav-link {
     margin-left: 20px;
-    color: #F5F5F5 !important;
+    color: black !important;
     font-size: 20px;
     font-weight: bold;
     text-shadow: 1px 1px #1E90FF; 
@@ -26,9 +26,33 @@
      
 }
 
+body, html {
+  height: 100%;
+}
+
+.bg {
+
+  /* Full height */
+  height: 100%;
+
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 /*--------------- Footer ------------------------*/
 
-.page-footer {
+#footer .page-footer {
     margin-top: 30px;
     padding-top: 40px;
+    margin-bottom: 140px;
+    background-color: black !important;
+}
+
+
+hr {
+    clear: both;
+    visibility: hidden;
 }
