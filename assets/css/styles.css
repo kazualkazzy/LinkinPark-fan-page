@@ -30,25 +30,38 @@ body, html {
   height: 100%;
 }
 
-.bg {
 
-  /* Full height */
-  height: 100%;
-
-
-  /* Center and scale the image nicely */
-  background-position: center;
+body {
+  /* Location of the image */
+  background-image: url(assets/img/background_img.jpg);
+  
+  /* Background image is centered vertically and horizontally at all times */
+  background-position: center center;
+  
+  /* Background image doesn't tile */
   background-repeat: no-repeat;
+  
+  /* Background image is fixed in the viewport so that it doesn't move when 
+     the content's height is greater than the image's height */
+  background-attachment: fixed;
+  
+  /* This is what makes the background image rescale based
+     on the container's size */
   background-size: cover;
+  
+  /* Set a background color that will be displayed
+     while the background image is loading */
+  background-color: #464646;
 }
+The most essential property/value pair to pay attention to is:
+
+background-size: cover;
+
 
 /*--------------- Footer ------------------------*/
 
-#footer .page-footer {
-    margin-top: 30px;
-    padding-top: 40px;
-    margin-bottom: 140px;
-    background-color: black !important;
+footer {
+    background-color: black;
 }
 
 
