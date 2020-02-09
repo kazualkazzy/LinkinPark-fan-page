@@ -89,6 +89,7 @@ hr {
     background-color: #DCDCDC !important;
 }
 
-.paragraph {
+paragraph {
+    margin-top: 40px;
     text-align: left;
 }
