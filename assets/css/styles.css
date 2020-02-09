@@ -41,11 +41,6 @@ body {
 }
 
 
-header,
-footer {
-    margin: 0;
-}
-
 /*--------------- Footer ------------------------*/
 
 footer {
@@ -64,6 +59,11 @@ footer {
    font-style: bold;
    font-size: 10px;
    margin-right: 10px;
+   color: black;
+}
+
+.fab {
+    color: black;
 }
 
 hr {
