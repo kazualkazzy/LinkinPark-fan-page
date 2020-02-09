@@ -10,7 +10,7 @@
 
 .nav-link {
     margin-left: 20px;
-    color: black !important;
+    color: #F08080 !important;
     font-size: 30px;
     font-weight: 700;
     font-style: bold;
@@ -41,15 +41,16 @@ body {
 /*--------------- Footer ------------------------*/
 
 footer {
-   background-color: #F5F5F5;
-   /*opacity: 0.1;*/
+   background-color: #F08080;
+   opacity: 0.3;
   
 }
 
-ul .list-unstyled { 
+ul .list-unstyled li a { 
    font-family: "Martel+Sans", sans-serif;
    font-weight: 400;
    font-style: bold;
+   font-size: 40px;
 
 }
 
