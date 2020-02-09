@@ -85,6 +85,10 @@ hr {
     background-color: black;
 }
 
-#hsecondpage {
+#secondpage {
     background-color: #DCDCDC !important;
+}
+
+.paragraph {
+    text-align: left;
 }
