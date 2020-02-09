@@ -23,8 +23,7 @@
 .navbar-brand img{
     width: 7rem;
     height: 7rem;
-    margin: 0;  
-     
+    margin: 0;     
 }
 
 /*--------------- Welcome header ------------------------*/
@@ -81,15 +80,33 @@ hr {
 
 /*--------------- About Us navigation bar ------------------------*/
 
-.navbar-about-us {
+.navbar-second {
     background-color: black;
+    font-family: "Martel+Sans", sans-serif;
+
+}
+
+/*--------------- Navigation bar item in About Us page ------------------------*/
+
+.nav-link-second {
+    margin-left: 20px;
+    color: #F08080 !important;
+    font-size: 30px;
+    font-weight: 700;
+    font-style: bold;
+    text-shadow: 1px 1px #1E90FF; 
+}
+
+/*--------------- Navigation Logo in About Us page ------------------------*/
+
+.navbar-brand-second img{
+    width: 7rem;
+    height: 7rem;
+    margin: 0;     
 }
 
 #secondpage {
     background-color: #DCDCDC !important;
+    padding-top: 270px;
 }
 
-paragraph {
-    margin-top: 40px;
-    text-align: left;
-}
