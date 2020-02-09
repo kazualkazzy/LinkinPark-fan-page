@@ -11,8 +11,9 @@
 .nav-link {
     margin-left: 20px;
     color: black !important;
-    font-size: 20px;
-    font-weight: bold;
+    font-size: 30px;
+    font-weight: 700;
+    font-style: bold;
     text-shadow: 1px 1px #1E90FF; 
 }
 
@@ -49,7 +50,7 @@ ul .list-unstyled {
    font-family: "Martel+Sans", sans-serif;
    font-weight: 400;
    font-style: bold;
-   
+
 }
 
 hr {
