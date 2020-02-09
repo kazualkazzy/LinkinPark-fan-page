@@ -36,7 +36,7 @@
 
 /*--------------- Background image ------------------------*/
 
-body {
+#homepage {
     background-image: url(../img/bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -77,4 +77,14 @@ footer {
 hr {
     clear: both;
     visibility: hidden;
+}
+
+/*--------------- About Us navigation bar ------------------------*/
+
+.navbar-about-us {
+    background-color: black;
+}
+
+#hsecondpage {
+    background-color: #DCDCDC !important;
 }
