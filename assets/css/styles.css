@@ -2,8 +2,8 @@
 
 /*--------------- Navigation bar ------------------------*/
 .navbar {
-   /* background-color: black !important ;*/
     font-family: "Martel+Sans", sans-serif;
+    
 }
 
 /*--------------- Navigation bar item ------------------------*/
@@ -38,6 +38,7 @@ body {
     -o-background-size: cover;
     padding: 0;
     margin: 0;
+    overflow: hidden;
 }
 
 
