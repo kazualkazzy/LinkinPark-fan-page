@@ -30,28 +30,40 @@
 /*--------------- Background image ------------------------*/
 
 body {
-    background-image: url(../img/background.jpg);
+    background-image: url(../img/bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
+    padding: 0;
+    margin: 0;
+}
+
+
+header,
+footer {
+    margin: 0;
 }
 
 /*--------------- Footer ------------------------*/
 
 footer {
    background-color: #F08080;
-   opacity: 0.3;
+   padding-top: 20px;
   
 }
 
-ul .list-unstyled li a { 
+.list-unstyled li {
+    display:inline-block;
+}
+
+.list-unstyled li a { 
    font-family: "Martel+Sans", sans-serif;
    font-weight: 400;
    font-style: bold;
-   font-size: 40px;
-
+   font-size: 10px;
+   margin-right: 10px;
 }
 
 hr {
