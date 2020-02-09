@@ -105,8 +105,22 @@ hr {
     margin: 0;     
 }
 
+/*--------------- Body of About Us page ------------------------*/
+
 #secondpage {
     background-color: #DCDCDC !important;
     padding-top: 270px;
+    padding-right: 30px;
+}
+
+
+/*--------------- Images in About Us page ------------------------*/
+
+.img-right {
+    masrgin-right: 10px;
+    float: right;
+    max-width: 100%;
+    height: auto;
+    padding-left: 20px;
 }
 
