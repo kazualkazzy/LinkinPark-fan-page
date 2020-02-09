@@ -41,8 +41,16 @@ body {
 
 footer {
    background-color: #F5F5F5;
+   /*opacity: 0.1;*/
+  
 }
 
+ul .list-unstyled { 
+   font-family: "Martel+Sans", sans-serif;
+   font-weight: 400;
+   font-style: bold;
+   
+}
 
 hr {
     clear: both;
