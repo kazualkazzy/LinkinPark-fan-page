@@ -116,11 +116,13 @@ hr {
 
 /*--------------- Images in About Us page ------------------------*/
 
-.img-right {
-    masrgin-right: 10px;
-    float: right;
+.img-fluid {
     max-width: 100%;
     height: auto;
-    padding-left: 20px;
+    padding-left: 40px;
+    object-fit: cover;
 }
 
+.pic-heading {
+    padding-left: 55px;
+}
