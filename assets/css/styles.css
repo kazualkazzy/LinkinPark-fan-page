@@ -126,3 +126,12 @@ hr {
 .pic-heading {
     padding-left: 55px;
 }
+
+
+/*--------------- Youtube videos in Media file ------------------------*/
+
+.embed-responsive iframe {
+    padding-left: 40px;
+    width: 200px;
+    height: 200px;
+}
