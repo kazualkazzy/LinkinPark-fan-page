@@ -131,7 +131,16 @@ hr {
 /*--------------- Youtube videos in Media file ------------------------*/
 
 .embed-responsive iframe {
+    padding-top: 0;
     padding-left: 40px;
     width: 200px;
     height: 200px;
+    padding-bottom: 100px;
+}
+
+.video-heading {
+    font-family: "Martel+Sans", sans-serif;
+    font-style: italic;
+    font-weight: 600;
+    margin-bottom: 30px;
 }
