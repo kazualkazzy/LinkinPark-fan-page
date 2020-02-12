@@ -148,9 +148,16 @@ hr {
 
 /*--------------- Contact us heading ------------------------*/
 
-
+.contact {
+   font-family: "Martel+Sans", sans-serif;
+   font-weight: 500;
+   padding-bottom: 20px; 
+}
 
 
 
 /*--------------- Contact us form ------------------------*/
 
+.form-actions {
+    text-align: center;
+}
