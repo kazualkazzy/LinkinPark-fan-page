@@ -10,6 +10,18 @@ body {
 }
 
 
+#home {
+    background-image: url(../img/bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+
 /* Welcome header */
 
 .welcome-header {
@@ -53,15 +65,7 @@ body {
 /*--------------- Background image ------------------------*/
 
 #homepage {
-    background-image: url(../img/bg.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    padding: 0;
-    margin: 0;
-    overflow: hidden;
+   
 }
 
 
