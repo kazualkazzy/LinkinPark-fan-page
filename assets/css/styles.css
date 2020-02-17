@@ -10,7 +10,7 @@ body {
 }
 
 
-#home {
+.bg-main {
     background-image: url(../img/bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -19,12 +19,11 @@ body {
     -o-background-size: cover;
     padding: 0;
     margin: 0;
-    overflow: hidden;
 }
 
 /* Welcome header */
 
-.welcome-header {
+h1 .welcome-message {
     font-family: "Martel Sans", sans-serif;
     position: absolute;
     top: 50%;
@@ -62,14 +61,7 @@ body {
 }
 
 
-/*--------------- Background image ------------------------*/
-
-#homepage {
-   
-}
-
-
-/*--------------- Footer ------------------------*/
+/* Footer */
 
 footer {
    background-color: #F08080;
@@ -99,44 +91,8 @@ hr {
     visibility: hidden;
 }
 
-/*--------------- About Us navigation bar ------------------------*/
 
-.navbar-second {
-    background-color: black;
-    font-family: "Martel+Sans", sans-serif;
-
-}
-
-/*--------------- Navigation bar item in About Us page ------------------------*/
-
-.nav-link-second {
-    margin-left: 20px;
-    color: #F08080 !important;
-    font-size: 30px;
-    font-weight: 700;
-    font-style: bold;
-    text-shadow: 1px 1px #1E90FF; 
-}
-
-/*--------------- Navigation Logo in About Us page ------------------------*/
-
-.navbar-brand-second img {
-    width: 7rem;
-    height: 7rem;
-    margin: 0;     
-}
-
-/*--------------- Body of About Us page ------------------------*/
-
-#secondpage {
-    background-color: #DCDCDC !important;
-    padding-top: 270px;
-    padding-right: 30px;
-    padding-bottom: 30px;
-}
-
-
-/*--------------- Images in About Us page ------------------------*/
+/* Images in About Us page */
 
 .img-fluid {
     max-width: 100%;
@@ -150,7 +106,7 @@ hr {
 }
 
 
-/*--------------- Youtube videos in Media file ------------------------*/
+/* Youtube videos in Media file */
 
 .embed-responsive iframe {
     padding-top: 0;
