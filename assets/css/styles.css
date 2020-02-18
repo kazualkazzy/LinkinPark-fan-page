@@ -39,7 +39,7 @@ body {
 
 /* Main body */
 
-#main-body .bg-main {
+.main-body {
     background-image: url(../img/bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -50,7 +50,7 @@ body {
     margin: 0;
 }
 
-#main-body h1 .welcome-message {
+.welcome-message {
     font-family: "Martel Sans", sans-serif;
     position: absolute;
     top: 50%;
@@ -61,7 +61,7 @@ body {
 
 
 /* Images in About Us page */
-
+/*
 #about .img-fluid {
     max-width: 100%;
     height: auto;
@@ -75,7 +75,7 @@ body {
 
 
 /* Youtube videos in Media file */
-
+/*
 #media .embed-responsive iframe {
     padding-top: 0;
     padding-left: 40px;
@@ -92,7 +92,7 @@ body {
 }
 
 /* Contact us heading */
-
+/*
 #contact .contact-us {
    font-family: "Martel+Sans", sans-serif;
    font-weight: 500;
@@ -101,7 +101,7 @@ body {
 
 
 /* Contact us form */
-
+/*
 #contact .form-actions {
     text-align: center;
 }
