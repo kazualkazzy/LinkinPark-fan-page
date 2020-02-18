@@ -39,7 +39,7 @@ body {
 
 /* Main body */
 
-.main-body {
+.bg-main {
     background-image: url(../img/bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -50,6 +50,7 @@ body {
     margin: 0;
 }
 
+/*
 .welcome-message {
     font-family: "Martel Sans", sans-serif;
     position: absolute;
