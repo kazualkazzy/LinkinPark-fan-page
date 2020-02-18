@@ -46,8 +46,9 @@ body {
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-    padding: 0;
-    margin: 0;
+    background-position: center;
+    height: 100vh;
+    padding-right: -15px;
 }
 
 /*
