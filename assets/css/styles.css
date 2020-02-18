@@ -51,14 +51,12 @@ body {
     padding-right: -15px;
 }
 
-/*
 .welcome-message {
     font-family: "Martel Sans", sans-serif;
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50px, -50px);
-
+    transform: translate(-50px, 50px);
 }
 
 
