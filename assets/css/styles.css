@@ -53,16 +53,23 @@ body {
 
 .welcome-message {
     font-family: "Martel Sans", sans-serif;
-    position: absolute;
-    top: 50%;
+    /*position: absolute;
+    /*top: 50%;
     left: 50%;
-    transform: translate(-400px, 250px);
+    transform: translate(-450x, 100px);*/
     color: white;
     font-size: 70px;
     font-style: italic;
     font-weight: 700;
+    text-align: center;
+    width: 700px;
 }
 
+
+#read-button {
+    left: 50%;
+    top: 50%;
+}
 
 /* Images in About Us page */
 /*
