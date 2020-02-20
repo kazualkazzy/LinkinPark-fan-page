@@ -56,7 +56,11 @@ body {
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50px, 50px);
+    transform: translate(-400px, 250px);
+    color: white;
+    font-size: 70px;
+    font-style: italic;
+    font-weight: 700;
 }
 
 
