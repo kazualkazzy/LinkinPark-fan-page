@@ -70,17 +70,34 @@ body {
     top: 50%;
 }
 
+
+/* About us paragraph */
+
+.paragraph {
+    padding-top: 30px;
+    padding-bottom: 100px;
+}
+
+
 /* Images in About Us page */
-/*
+
 #about .img-fluid {
     max-width: 100%;
     height: auto;
     padding-left: 40px;
     object-fit: cover;
+    margin: 0;
+    padding-top: 30px;
 }
 
 #about .pic-heading {
     padding-left: 55px;
+    padding-top: 10px;
+}
+
+
+.images {
+    padding-top: 20px;
 }
 
 
