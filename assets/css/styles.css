@@ -96,21 +96,24 @@ body {
 .img-fluid {
     max-width: 100%;
     height: auto;
-    padding-left: 40px;
     object-fit: cover;
     margin: 0;
-    padding-top: 30px;
-    padding-bottom: 10px;
+    -webkit-box-shadow: 11px -12px 41px -9px rgba(0,0,0,1);
+    -moz-box-shadow: 11px -12px 41px -9px rgba(0,0,0,1);
+    box-shadow: 11px -12px 41px -9px rgba(0,0,0,1);
 }
 
 .pic-heading {
     font-family: "Josefin Sans", sans-serif;
-    padding-left: 55px;
     padding-top: 20px;
     text-align: center;
     font-size: 1.125rem;
 }
 
+.pics-column {
+    padding-top: 40px;
+    padding-left: 20px;
+}
 
 .images, .images2 {
     padding-top: 20px;
