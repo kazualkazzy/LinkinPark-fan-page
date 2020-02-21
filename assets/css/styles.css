@@ -59,7 +59,7 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
     color: white;
-    font-size: 70px;
+    font-size: 4.375rem;
     font-style: italic;
     font-weight: 700;
     width: 700px;
@@ -74,9 +74,17 @@ body {
 
 /* About us paragraph */
 
+.text-header {
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 40px;
+}
+
+
 .paragraph {
     padding-top: 30px;
     padding-bottom: 100px;
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 20px;
 }
 
 
@@ -93,6 +101,7 @@ body {
 }
 
 .pic-heading {
+    font-family: "Josefin Sans", sans-serif;
     padding-left: 55px;
     padding-top: 20px;
     text-align: center;
