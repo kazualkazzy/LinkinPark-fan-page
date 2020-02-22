@@ -84,7 +84,7 @@ body {
 
 .paragraph {
     padding-top: 30px;
-    padding-bottom: 100px;
+    padding-bottom: 80px;
     font-family: "Josefin Sans", sans-serif;
     font-size: 1.25rem;
     padding-left: 20px;
@@ -124,19 +124,22 @@ body {
 
 /* Youtube videos in Media file */
 
-#media .embed-responsive iframe {
+.videos {
+    background-color: #DCDCDC;
+}
+
+.embed-responsive iframe {
     padding-top: 0;
     padding-left: 40px;
-    width: 200px;
-    height: 200px;
     padding-bottom: 100px;
 }
 
-#media .video-heading {
+.video-heading {
     font-family: "Martel+Sans", sans-serif;
     font-style: italic;
     font-weight: 600;
     margin-bottom: 30px;
+    font-size: 30px;
 }
 
 /* Contact us heading */
