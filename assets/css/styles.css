@@ -126,6 +126,9 @@ body {
 
 .videos {
     background-color: #DCDCDC;
+    -webkit-box-shadow: -8px -19px 89px -35px rgba(0,0,0,0.8);
+    -moz-box-shadow: -8px -19px 89px -35px rgba(0,0,0,0.8);
+    box-shadow: -8px -19px 89px -35px rgba(0,0,0,0.8);
 }
 
 .video-file {
@@ -144,11 +147,12 @@ body {
     font-weight: 600;
     margin-bottom: 30px;
     font-size: 1.875rem;
+    text-shadow: 1.5px 1.2px #F08080; 
 }
 
 /* Contact us heading */
-/*
-#contact .contact-us {
+
+.contact-us {
    font-family: "Martel+Sans", sans-serif;
    font-weight: 500;
    padding-bottom: 20px; 
@@ -156,8 +160,8 @@ body {
 
 
 /* Contact us form */
-/*
-#contact .form-actions {
+
+.form-actions {
     text-align: center;
 }
 
