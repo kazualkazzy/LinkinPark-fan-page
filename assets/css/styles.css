@@ -150,14 +150,20 @@ body {
     text-shadow: 1.5px 1.2px #F08080; 
 }
 
-/* Contact us heading */
+/* Contact us container */
 
 .contact-us {
    font-family: "Martel+Sans", sans-serif;
    font-weight: 500;
    padding-bottom: 20px; 
+   background-color: black;
 }
 
+/* Contact us heading */
+
+.contact-heading {
+
+}
 
 /* Contact us form */
 
