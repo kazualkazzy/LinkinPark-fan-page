@@ -52,23 +52,18 @@ body {
     padding-right: -15px;
 }
 
-.welcome-message {
-    font-family: "Martel Sans", sans-serif;
+.welcome-msg-btn {
     position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: white;
-    font-size: 4.375rem;
-    font-style: italic;
-    font-weight: 700;
-    width: 700px;
+    width: 100%;
+    padding-top: 20rem;
 }
 
-
-#read-button {
-    left: 50%;
-    top: 50%;
+.welcome-message {
+    font-family: "Martel Sans", sans-serif;
+    color: white;
+    font-style: italic;
+    font-weight: 700;
+    font-size: 50px;
 }
 
 
@@ -160,6 +155,11 @@ body {
     -webkit-box-shadow: -8px -19px 89px -35px rgba(0,0,0,0.8);
     -moz-box-shadow: -8px -19px 89px -35px rgba(0,0,0,0.8);
     box-shadow: -8px -19px 89px -35px rgba(0,0,0,0.8);
+    margin: 0;
+}
+
+.contact-row {
+    padding-bottom: 40px;
 }
 
 .contact-column {
@@ -171,12 +171,28 @@ body {
 
 .contact-heading {
     color: #DCDCDC;
+    font-size: 40px;
+    text-align: center;
+    padding-bottom: 20px;
 }
 
 /* Contact us form */
 
+.forms {
+    padding-bottom: 80px;
+}
+
+
+.form-group {
+    padding-bottom: 20px;
+}
+
+
 .form-actions {
     text-align: center;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
 }
 
 
