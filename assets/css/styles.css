@@ -157,12 +157,20 @@ body {
    font-weight: 500;
    padding-bottom: 20px; 
    background-color: black;
+    -webkit-box-shadow: -8px -19px 89px -35px rgba(0,0,0,0.8);
+    -moz-box-shadow: -8px -19px 89px -35px rgba(0,0,0,0.8);
+    box-shadow: -8px -19px 89px -35px rgba(0,0,0,0.8);
+}
+
+.contact-column {
+    padding-top: 40px;
+    padding-bottom: 130px;
 }
 
 /* Contact us heading */
 
 .contact-heading {
-
+    color: #DCDCDC;
 }
 
 /* Contact us form */
