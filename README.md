@@ -167,4 +167,3 @@ Cloning Linkin Park fan page from GitHub:
 * <a href="https://htmlcolorcodes.com/color-names/">Colour names and codes</a>
 * <a href="http://linkinparkweb.yaia.com/biography.html">Linkin Park biography</a>
 * <a href="https://www.cssmatic.com/box-shadow">Shadow box parameters</a>
-* <a href="https://www.cssmatic.com/box-shadow">Shadow box parameters</a>
