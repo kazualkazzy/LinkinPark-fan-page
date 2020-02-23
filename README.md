@@ -74,7 +74,6 @@ and 'Youtube' icons. I had to make sure they were reasonable size to be seen on 
 ### Colours:
 * #fff (White)
 * #1E90FF (Dodgerblue)
-* #0000CD (Medium blue)
 * #F5F5F5 (White smoke)
 * #F08080 (Lightcoral)
 * #DCDCDC (Gainsboro)
@@ -100,6 +99,10 @@ on Balsamiq to show how structurally elements would appear on the page for diffe
 
 # Features:
 
+* Slide out navigation for mobile/tablet devices
+* Interactive youtube videos
+* Poping buttons and menu items (hover.css)
+
 # Technologies Used:
 
 ## Languages:
@@ -107,11 +110,13 @@ on Balsamiq to show how structurally elements would appear on the page for diffe
 * <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a>
 * <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a>
 
+
 ## Tools and Libraries:
 
 * <a href="https://getbootstrap.com/">Bootstrap</a>
 * <a href="https://fontawesome.com/icons?d=gallery">Font-Awesome</a>
 * <a href="https://mdbootsrap.com">MDbootstrap</a>
+* <a href="https://jquery.com/">jQuery</a>
 
 # Testing:
 
@@ -121,9 +126,35 @@ on Balsamiq to show how structurally elements would appear on the page for diffe
 
 # Overall:
 
-# Bugs:
-
 # Deployment:
+
+Linkin Park fan page was developed on GitPod, using git and GitHub to host the repository.
+
+When deploying Holiday Destinations using GitHub Pages the following steps were made:
+
+* Opened up <strong>GitHub</strong> in the browser.
+* Signed in using username and password.
+* Selected my <strong>repositories</strong>.
+* Navigated to <strong>'/vaida898/linkinPark-fan-page'</strong>.
+* In the top navigation clicked <strong>'settings'</strong>.
+* Scrolled down to the <strong>GitHub Pages</strong> area. 
+* Selected <strong>'Master Branch'</strong> from the <strong>'Source'</strong> dropdown menu.
+* Clicked to confirm my selection.
+* Linkin Park fan page now live on GitHub Pages.
+
+#### Running Linkin Park fan page Locally
+
+Cloning Linkin Park fan page from GitHub:
+
+* Navigate to <strong>'/vaida909/LinkinPark-fan-page'</strong>.
+* Click the green <strong>'Clone or Download'</strong> button.
+* Copy the <strong>url</strong> in the dropdown box.
+* Using your favourite <strong>IDE</strong> open up your preferred <strong>terminal</strong>.
+* Navigate to your desired file location. 
+* Copy the following <strong>code</strong> and input it into your terminal to clone Linkin Park fan page.
+ ```git
+  git clone https://vaida898.github.io/LinkinPark-fan-page/
+   ```
 
 # Closing Notes:
 
