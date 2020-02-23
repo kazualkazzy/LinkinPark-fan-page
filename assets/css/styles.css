@@ -15,6 +15,8 @@ body {
 
 .navbar {
     font-family: "Martel+Sans", sans-serif;
+    background-color: #F08080;
+    opacity: 0.6;
 
 }
 
@@ -22,7 +24,7 @@ body {
 
 .nav-link {
     margin-left: 20px;
-    color: #F08080 !important;
+    color: black !important;
     font-size: 30px;
     font-weight: 700;
     font-style: bold;
@@ -33,8 +35,8 @@ body {
 /* Navigation Logo */
 
 .navbar-brand img { 
-    width: 7rem;
-    height: 7rem;
+    width: 3.5rem;
+    height: 3.5rem;
     margin: 0;     
 }
 
