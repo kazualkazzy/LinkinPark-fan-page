@@ -67,6 +67,9 @@ better atmosphere which suits band itself.
 My first choice of font was <a href="https://fonts.google.com/?query=Martel+Sans&selection.family=Lato">Martel+Sans</a> because it looks
 tidy and neat but also has soft edges to make text look not too heavy for a reader.
 
+I also used another font which was <a href="https://fonts.google.com/?query=Josefin+Sans&selection.family=Lato"> for short biography paragraph of Linkin Park band. 
+I wanted paragraph to stand out a little bit and this font was perfect for that.
+
 ### Icons:
 The icons used as social links in footer section. They are all known social website's icons. I used 'font-awesome' 'Facebook', 'Instagram', 'Twitter'
 and 'Youtube' icons. I had to make sure they were reasonable size to be seen on a smaller devices too.
@@ -117,6 +120,7 @@ on Balsamiq to show how structurally elements would appear on the page for diffe
 * <a href="https://fontawesome.com/icons?d=gallery">Font-Awesome</a>
 * <a href="https://mdbootsrap.com">MDbootstrap</a>
 * <a href="https://jquery.com/">jQuery</a>
+* <a href="https://ianlunn.github.io/Hover/">Hover.css</a>
 
 # Testing:
 
@@ -146,7 +150,7 @@ When deploying Holiday Destinations using GitHub Pages the following steps were 
 
 Cloning Linkin Park fan page from GitHub:
 
-* Navigate to <strong>'/vaida909/LinkinPark-fan-page'</strong>.
+* Navigate to <strong>'/vaida898/LinkinPark-fan-page'</strong>.
 * Click the green <strong>'Clone or Download'</strong> button.
 * Copy the <strong>url</strong> in the dropdown box.
 * Using your favourite <strong>IDE</strong> open up your preferred <strong>terminal</strong>.
@@ -161,3 +165,6 @@ Cloning Linkin Park fan page from GitHub:
 # Credits:
 
 * <a href="https://htmlcolorcodes.com/color-names/">Colour names and codes</a>
+* <a href="http://linkinparkweb.yaia.com/biography.html">Linkin Park biography</a>
+* <a href="https://www.cssmatic.com/box-shadow">Shadow box parameters</a>
+* <a href="https://www.cssmatic.com/box-shadow">Shadow box parameters</a>
