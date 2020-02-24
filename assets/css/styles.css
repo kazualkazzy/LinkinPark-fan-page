@@ -17,6 +17,11 @@ body {
     font-family: "Martel+Sans", sans-serif;
     background-color: #F08080;
     opacity: 0.6;
+    transition: top 0.5s ease;
+}
+
+.navbar-hide {
+    top: -56px;
 }
 
 /* Navigation bar item */
