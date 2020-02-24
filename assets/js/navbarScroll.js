@@ -4,8 +4,8 @@ var nav = $('.navbar');
 
 $window.on('scroll', function(){
   var scrollTop = $window.scrollTop();
-  nav.toggleClass('hidden', scrollTop > prev);
+  nav.toggleClass('navbar-hidden', scrollTop > prev);
   prev = scrollTop;
+  console.log('hello!');
 });
 
-console.log();
