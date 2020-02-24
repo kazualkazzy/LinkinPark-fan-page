@@ -1,20 +1,9 @@
-// document ready
-(function ($) {
+var prev = 0;
+var $window = $(window);
+var nav = $('.navbar');
 
-var previousScroll = 20;
-    // scroll functions
-    $(window).scroll(function(e) {
-    
-        // add/remove class to navbar when scrolling to hide/show
-        var scroll = $(window).scrollTop();
-        if (scroll >= previousScroll) {
-            $('.navbar').addClass("navbar-hide");
-        
-        }else if (scroll < previousScroll) {
-            $('.navbar').removeClass("navbar-hide");
-        }
-        previousScroll = scroll;
-    
-    });
-    
-})(jQuery); 
+$window.on('scroll', function(){
+  var scrollTop = $window.scrollTop();
+  nav.toggleClass('hidden', scrollTop > prev);
+  prev = scrollTop;
+});

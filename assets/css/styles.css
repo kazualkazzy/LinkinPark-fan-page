@@ -16,12 +16,13 @@ body {
 .navbar {
     font-family: "Martel+Sans", sans-serif;
     background-color: #F08080;
-    opacity: 0.6;
-    transition: top 0.5s ease;
+    opacity: 0.8;
+    transition: transform .5s;
+    transition-timing-function: ease-in-out;
 }
 
-.navbar-hide {
-    top: -56px;
+.navbar-hidden {
+    transform: translateY(100%);
 }
 
 /* Navigation bar item */
@@ -36,7 +37,7 @@ body {
 }
 
 
-/* Navigation Logo */
+/* Navigation bar Logo */
 
 .navbar-brand img { 
     width: 3.5rem;
@@ -124,7 +125,7 @@ body {
     padding-left: 20px;
 }
 
-.images, .images2 {
+.images {
     padding-top: 20px;
     padding-right: 20px;
 }
