@@ -151,7 +151,25 @@ system. I just have to make sure that iamges and paragraph align in a way I want
 
 1. Resize window. Do images and paragraph of text responding correctly on a smaller devices?
 
+#### Media:
 
+This section of page has to have two videos embedded form youtube.com website and I wanted to have
+them next to each other. On a smaller devices my plan was to have them stacked on each other. The 
+most testing in this section has been done by making sure that videos are responsive via pc, tablet 
+and mobile device. Knowing that these media files are videos I have to test that they can be played
+via website itself.
+
+1. Resize the window. Do embedded videos are responsive depending of device size?
+2. Play video. Do videos play on a website? Can you go to youtube.com website and watch it there?
+
+#### Contact Us:
+
+Contact us section purpose is to get a qoutes form fans of a band or everyone interested to contact
+website owners and suggest a project that can be done other fans together. The testing I conducted 
+on this form is to make sure all fields do work as expected and 'submit project' button send you back
+to home page.
+
+1. 
 
 # Deployment:
 
