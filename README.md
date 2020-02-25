@@ -205,6 +205,13 @@ Cloning Linkin Park fan page from GitHub:
 
 # Closing Notes:
 
+Developing this project first time I have used <strong>Bootstrap</strong> which I find was so helpful and capable to helper.
+Then I get a hang on grid system I thought to myself that is such a briliant thing and so handy for any website developer. 
+It helps so much with layout of page and it can be very mobile device friendly. For the further development of this project 
+I would probably try to add more styling features such as zoom-in while image is clicked, sliding in heading of the page and
+maybe carousel for images to have an album not only couple images. I managed to make it work on all sizes of devices which I 
+think was a challange for me and user was happy to see all the content on any device it has been tried on. 
+
 # Credits:
 
 * <a href="https://htmlcolorcodes.com/color-names/">Colour names and codes</a>
