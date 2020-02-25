@@ -67,7 +67,7 @@ better atmosphere which suits band itself.
 My first choice of font was <a href="https://fonts.google.com/?query=Martel+Sans&selection.family=Lato">Martel+Sans</a> because it looks
 tidy and neat but also has soft edges to make text look not too heavy for a reader.
 
-I also used another font which was <a href="https://fonts.google.com/?query=Josefin+Sans&selection.family=Lato"> for short biography paragraph of Linkin Park band. 
+I also used another font which was <a href="https://fonts.google.com/?query=Josefin+Sans&selection.family=Lato"></a> for short biography paragraph of Linkin Park band. 
 I wanted paragraph to stand out a little bit and this font was perfect for that.
 
 ### Icons:
@@ -83,6 +83,8 @@ and 'Youtube' icons. I had to make sure they were reasonable size to be seen on 
 * #000 (Black)
 
 ### Styling:
+Thanks to SASS/SCSS I was easily able to set variables in my stylesheets that ask as the house style - this means that the styles can be used in multiple places without 
+having to repeat code. Using SASS also allowed me to better structure my stylesheets.
 
 ### Images + Background:
 The background image I chose to on the banner I found via google search typing bands name but link to it can be found in Credts section.
@@ -112,6 +114,7 @@ on Balsamiq to show how structurally elements would appear on the page for diffe
 
 * <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a>
 * <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a>
+* <a href="https://www.w3schools.com/js/">JavaScript</a>
 
 
 ## Tools and Libraries:
