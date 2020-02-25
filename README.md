@@ -106,7 +106,7 @@ on Balsamiq to show how structurally elements would appear on the page for diffe
 
 * Slide out navigation for mobile/tablet devices
 * Interactive youtube videos
-* Poping buttons and menu items (hover.css)
+* Popping buttons and menu items (hover.css)
 
 # Technologies Used:
 
@@ -126,6 +126,8 @@ on Balsamiq to show how structurally elements would appear on the page for diffe
 * <a href="https://ianlunn.github.io/Hover/">Hover.css</a>
 
 # Testing:
+As this was my first time being exposed to the Google Maps API, my testing was extremely thorough, making sure that I scrutinized every line of code and detail not only meant 
+that the code ran without issues, but also allowed me to learn more in depth how to work with the API. Testing involved my own personal testing and also that of my peers and fellow students.
 
 ### Test planning:
 
