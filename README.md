@@ -177,12 +177,12 @@ button send you back to home page.
 
 Linkin Park fan page was developed on GitPod, using git and GitHub to host the repository.
 
-When deploying Holiday Destinations using GitHub Pages the following steps were made:
+When deploying Linkin Park fan page using GitHub Pages the following steps were made:
 
 * Opened up <strong>GitHub</strong> in the browser.
 * Signed in using username and password.
 * Selected my <strong>repositories</strong>.
-* Navigated to <strong>'/vaida898/linkinPark-fan-page'</strong>.
+* Navigated to <strong>'/vaida898/LinkinPark-fan-page'</strong>.
 * In the top navigation clicked <strong>'settings'</strong>.
 * Scrolled down to the <strong>GitHub Pages</strong> area. 
 * Selected <strong>'Master Branch'</strong> from the <strong>'Source'</strong> dropdown menu.
