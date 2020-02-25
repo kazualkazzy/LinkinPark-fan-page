@@ -67,7 +67,7 @@ better atmosphere which suits band itself.
 My first choice of font was <a href="https://fonts.google.com/?query=Martel+Sans&selection.family=Lato">Martel+Sans</a> because it looks
 tidy and neat but also has soft edges to make text look not too heavy for a reader.
 
-I also used another font which was <a href="https://fonts.google.com/?query=Josefin+Sans&selection.family=Lato"></a> for short biography paragraph of Linkin Park band. 
+I also used another font which was <a href="https://fonts.google.com/?query=Josefin+Sans&selection.family=Lato">Josefin+Sans</a> for short biography paragraph of Linkin Park band. 
 I wanted paragraph to stand out a little bit and this font was perfect for that.
 
 ### Icons:
