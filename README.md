@@ -131,7 +131,7 @@ layout of my page on mobile device and tablet.
 
 All testing has been done manually clicking and typing into provided contact us form. 
 
-##### Home page:
+#### Home page:
 
 I tested if all navigation bar links work and sends user to a correct section of page. 
 
@@ -141,6 +141,17 @@ devices.
 1. Click navigation bar links. DO they take you to the correct section of the page?
 2. Click on a logo image. Does it take you to home page? 
 3. Resize the window. Does toggle icon appear and your menu works then it is clicked?
+4. Click 'Read more' button. Does it take you to page section 'About us'?
+
+#### About Us:
+
+In this section I wanted to have only short paragraph and images of member. I wanted paragraph to
+be on a left side of page and images on a right. The best helper in this case was bootstrap grid 
+system. I just have to make sure that iamges and paragraph align in a way I wanted them.
+
+1. Resize window. Do images and paragraph of text responding correctly on a smaller devices?
+
+
 
 # Deployment:
 
