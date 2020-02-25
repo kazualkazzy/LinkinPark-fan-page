@@ -125,15 +125,22 @@ on Balsamiq to show how structurally elements would appear on the page for diffe
 * <a href="https://jquery.com/">jQuery</a>
 * <a href="https://ianlunn.github.io/Hover/">Hover.css</a>
 
-# Testing:
-As this was my first time being exposed to the Google Maps API, my testing was extremely thorough, making sure that I scrutinized every line of code and detail not only meant 
-that the code ran without issues, but also allowed me to learn more in depth how to work with the API. Testing involved my own personal testing and also that of my peers and fellow students.
+### Testing planning + Testing stories:
+The most of the testing has been conducted in GitPod but I also have used chrome dev tools to inpspect
+layout of my page on mobile device and tablet.
 
-### Test planning:
+All testing has been done manually clicking and typing into provided contact us form. 
 
-### Testing stories
+##### Home page:
 
-# Overall:
+I tested if all navigation bar links work and sends user to a correct section of page. 
+
+I added JavaScript code to make expanded navigation bar close up while scrolling through website on mobile
+devices. 
+
+1. Click navigation bar links. DO they take you to the correct section of the page?
+2. Click on a logo image. Does it take you to home page? 
+3. Resize the window. Does toggle icon appear and your menu works then it is clicked?
 
 # Deployment:
 
