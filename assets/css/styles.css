@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Martel+Sans:400,500,600,700&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:400&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans|Martel+Sans:400,600,700&display=swap');
 
 html {
 	scroll-behavior: smooth;
@@ -11,7 +10,7 @@ body {
 }
 footer {
    background-color: #F08080;
-   padding-top: 20px;
+   padding-top: 2rem;
   
 }
 
@@ -57,7 +56,7 @@ footer {
 .welcome-msg-btn {
     position: absolute;
     width: 100%;
-    padding-top: 2rem;
+    padding-top: 20rem;
 }
 
 .welcome-message {
@@ -69,11 +68,7 @@ footer {
 
 .read-btn {
     font-size: 1.25rem;
-    padding-top: 1rem;
-    padding-bottom: 1rem;
-    padding-left: 2rem;
-    padding-right: 2rem;
-
+    padding: 1rem 2rem;
 }
 
 /* About us paragraph */
@@ -113,7 +108,7 @@ footer {
 
 .pics-column {
     padding-top: 4rem;
-    padding-left: 2rem;
+    padding-left: 2rem;  
 }
 
 .images {
