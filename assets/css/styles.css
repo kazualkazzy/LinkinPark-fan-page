@@ -52,7 +52,7 @@ body {
 .welcome-msg-btn {
     position: absolute;
     width: 100%;
-    padding-top: 20rem;
+    padding-top: 2rem;
 }
 
 .welcome-message {
@@ -67,25 +67,20 @@ body {
    padding: 1rem 2rem;
 }
 
-
 /* About us paragraph */
 
 .text-header {
     font-family: "Josefin Sans", sans-serif;
     font-size: 2.5rem;
     color: #F08080 !important;
-    padding-left: 20px;
+    padding-left: 2rem;
 }
-
 
 .paragraph {
-    padding-top: 30px;
-    padding-bottom: 30px;
     font-family: "Josefin Sans", sans-serif;
     font-size: 1.25rem;
-    padding-left: 20px;
-    padding-right: 20px;
-}
+    padding: 3rem 2rem;
+  
 
 
 /* Images in About Us page */
