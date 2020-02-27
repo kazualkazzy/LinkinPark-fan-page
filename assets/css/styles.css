@@ -80,8 +80,7 @@ body {
     font-family: "Josefin Sans", sans-serif;
     font-size: 1.25rem;
     padding: 3rem 2rem;
-  
-
+}
 
 /* Images in About Us page */
 
@@ -97,21 +96,20 @@ body {
 
 .pic-heading {
     font-family: "Josefin Sans", sans-serif;
-    padding-top: 20px;
+    padding-top: 2rem;
     text-align: center;
     font-size: 1.125rem;
 }
 
 .pics-column {
-    padding-top: 40px;
-    padding-left: 20px;
+    padding-top: 4rem;
+    padding-left: 2rem;
 }
 
 .images {
     padding-top: 20px;
     padding-right: 20px;
 }
-
 
 /* Youtube videos in Media file */
 
@@ -123,8 +121,8 @@ body {
 }
 
 .video-file {
-    padding-top: 30px;
-    padding-right: 20px;
+    padding-top: 3rem;
+    padding-right: 2rem;
 }
 
 .embed-responsive iframe {
