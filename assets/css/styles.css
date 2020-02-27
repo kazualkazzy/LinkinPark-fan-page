@@ -5,13 +5,12 @@ html {
 }
 body {
 	font-family: "Martel Sans", sans-serif;
-	font-size: 62.5%;
 	font-weight: 400;
+    font-size: 62.5%;
 }
 footer {
    background-color: #F08080;
-   padding-top: 2rem;
-  
+   padding-top: 2rem; 
 }
 
 /* Navigation bar */
@@ -26,7 +25,7 @@ footer {
 .nav-link {
     margin-left: 2rem;
     color: #000000 !important;
-    font-size: 3rem;
+    font-size: 2rem;
     font-weight: 700;
     font-style: bold;
     text-shadow: 1px 1px #1E90FF; 
@@ -103,7 +102,8 @@ footer {
     font-family: "Josefin Sans", sans-serif;
     padding-top: 2rem;
     text-align: center;
-    font-size: 1.125rem;
+    font-size: 1.5rem;
+    padding-bottom: 2rem;
 }
 
 .pics-column {
@@ -161,7 +161,7 @@ footer {
 
 .contact-column {
     padding-top: 4rem;
-    padding-bottom: 13rem;
+    padding-bottom: 3rem;
 }
 
 /* Contact us heading */
