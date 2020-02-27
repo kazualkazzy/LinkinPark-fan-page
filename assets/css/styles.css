@@ -6,42 +6,33 @@ html {
 }
 body {
 	font-family: "Martel Sans", sans-serif;
-	font-size: 1rem;
+	font-size: 62.5%;
 	font-weight: 400;
 }
-
 
 /* Navigation bar */
 
 .navbar {
-    font-family: "Martel+Sans", sans-serif;
     background-color: #F08080;
-    opacity: 0.7;
-    /*transition: transform .5s;
-    transition-timing-function: ease-in-out;*/
-}
-
-/*.navbar-hidden {
-    transform: translateY(100%);
+    opacity: 0.7; 
 }
 
 /* Navigation bar item */
 
 .nav-link {
-    margin-left: 20px;
-    color: black !important;
-    font-size: 30px;
+    margin-left: 2rem;
+    color: #000000 !important;
+    font-size: 3rem;
     font-weight: 700;
     font-style: bold;
     text-shadow: 1px 1px #1E90FF; 
 }
 
-
 /* Navigation bar Logo */
 
 .navbar-brand img { 
-    width: 3.5rem;
-    height: 3.5rem;
+    width: 56px;
+    height: 56px;
     margin: 0;     
 }
 
@@ -55,7 +46,7 @@ body {
     -moz-background-size: cover;
     -o-background-size: cover;
     height: 100vh;
-    padding-right: -15px;
+    padding-right: -1.5rem;
 }
 
 .welcome-msg-btn {
@@ -65,8 +56,7 @@ body {
 }
 
 .welcome-message {
-    font-family: "Martel Sans", sans-serif;
-    color: white;
+    color: #ffffff;
     font-style: italic;
     font-weight: 700;
     font-size: 3.75rem;
@@ -74,10 +64,7 @@ body {
 
 .read-btn {
     font-size: 1.25rem;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-right: 20px;
-    padding-left: 20px;
+   padding: 1rem 2rem;
 }
 
 
