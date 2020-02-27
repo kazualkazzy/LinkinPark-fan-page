@@ -9,6 +9,11 @@ body {
 	font-size: 62.5%;
 	font-weight: 400;
 }
+footer {
+   background-color: #F08080;
+   padding-top: 20px;
+  
+}
 
 /* Navigation bar */
 
@@ -64,7 +69,11 @@ body {
 
 .read-btn {
     font-size: 1.25rem;
-   padding: 1rem 2rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+
 }
 
 /* About us paragraph */
@@ -107,8 +116,8 @@ body {
 }
 
 .images {
-    padding-top: 20px;
-    padding-right: 20px;
+    padding-top: 2rem;
+    padding-right: 2rem;
 }
 
 /* Youtube videos in Media file */
@@ -126,15 +135,14 @@ body {
 }
 
 .embed-responsive iframe {
-    padding-left: 20px;
-    padding-bottom: 100px;
+    padding-left: 2rem;
+    padding-bottom: 10rem;
 }
 
 .video-heading {
-    font-family: "Martel+Sans", sans-serif;
     font-style: italic;
     font-weight: 600;
-    margin-bottom: 30px;
+    margin-bottom: 3rem;
     font-size: 1.875rem;
     text-shadow: 1.5px 1.2px #F08080; 
 }
@@ -142,10 +150,9 @@ body {
 /* Contact us container */
 
 .contact-us {
-   font-family: "Martel+Sans", sans-serif;
-   font-weight: 500;
-   padding-bottom: 20px; 
-   background-color: black;
+   font-weight: 600;
+   padding-bottom: 2rem; 
+   background-color: #000000;
     -webkit-box-shadow: -8px -19px 89px -35px rgba(0,0,0,0.8);
     -moz-box-shadow: -8px -19px 89px -35px rgba(0,0,0,0.8);
     box-shadow: -8px -19px 89px -35px rgba(0,0,0,0.8);
@@ -153,12 +160,12 @@ body {
 }
 
 .contact-row {
-    padding-bottom: 40px;
+    padding-bottom: 4rem;
 }
 
 .contact-column {
-    padding-top: 40px;
-    padding-bottom: 130px;
+    padding-top: 4rem;
+    padding-bottom: 13rem;
 }
 
 /* Contact us heading */
@@ -167,48 +174,35 @@ body {
     color: #DCDCDC;
     font-size: 2.5rem;
     text-align: center;
-    padding-bottom: 20px;
+    padding-bottom: 2rem;
 }
 
 /* Contact us form */
 
 .forms {
-    padding-bottom: 80px;
+    padding-bottom: 8rem;
 }
-
 
 .form-group {
-    padding-bottom: 20px;
+    padding-bottom: 2rem;
 }
-
 
 .form-actions {
     text-align: center;
-    padding-bottom: 20px;
-    padding-right: 20px;
-    padding-left: 20px;
+    padding-bottom: 2rem;
+    padding-right: 2rem;
+    padding-left: 2rem;
 }
 
 .btn-submit {
     background-color: #F08080;
     font-size: 1.25rem;
-    border-radius: 6px;
+    border-radius: 0.6rem;
     font-weight: 600;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-right: 20px;
-    padding-left: 20px;
+    padding: 1rem 2rem;
 }
 
-
-/* Footer */
-
-footer {
-   background-color: #F08080;
-   padding-top: 20px;
-  
-}
-
+/* Footer items */
 /* Quick links */
 
 .list-unstyled li {
@@ -220,21 +214,16 @@ footer {
    font-weight: 400;
    font-style: bold;
    font-size: 1rem;
-   margin-right: 10px;
-   color: black;
+   margin-right: 1rem;
+   color: #000000;
    text-decoration: none;
 }
 
 /* Social links */
 
 .fab {
-    color: black;
+    color: #000000;
     text-decoration: none !important;
-}
-
-hr {
-    clear: both;
-    visibility: hidden;
 }
 
 
