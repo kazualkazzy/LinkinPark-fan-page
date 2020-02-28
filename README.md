@@ -83,8 +83,8 @@ and 'Youtube' icons. I had to make sure they were reasonable size to be seen on 
 * #000 (Black)
 
 ### Styling:
-Thanks to SASS/SCSS I was easily able to set variables in my stylesheets that ask as the house style - this means that the styles can be used in multiple places without 
-having to repeat code. Using SASS also allowed me to better structure my stylesheets.
+Thanks to SCSS I was easily able to set variables in my stylesheets that ask as the house style - this means that the styles can be used in multiple places without 
+having to repeat code. Using SCSS also allowed me to better structure my stylesheets.
 
 ### Images + Background:
 The background image I chose to on the banner I found via google search typing bands name and link to it can be found in Credts section. Because image
