@@ -102,7 +102,7 @@ having to repeat code. Using SCSS also allowed me to better structure my stylesh
 
 ### Images + Background:
 The background image I chose to on the banner I found via google search typing bands name and link to it can be found in Credts section. Because image
-was really big I have to use <a href="https://imagecompressor.com">Optimizilla</a> to resize it.
+was really big I had to use <a href="https://imagecompressor.com">Optimizilla</a> to resize it.
 More images can be found in About Us section of website and they are member's pictures for new and current band fans to recognise them in media.
 
 I found images on random websites via google search. 
@@ -114,14 +114,14 @@ I found images on random websites via google search.
 * <a href="https://www.WordPress.com/">WordPress</a>
 
 # Wireframes:
-I built wireframes for this project using <a href="https://balsamiq.com/">Balsamiq</a> mockups. I created basic wireframes for Mobile/Tablet/Desktop
+I have built wireframes for this project using <a href="https://balsamiq.com/">Balsamiq</a> mockups. I created basic wireframes for Mobile/Tablet/Desktop
 on Balsamiq to show how structurally elements would appear on the page for different devices. Wireframes can be found by clicking this link in my repository:
 
 <a href="https://github.com/vaida898/LinkinPark-fan-page/tree/master/wireframes">Wireframes for Desktop, Mobile and Tablet</a>
 
 # Features:
 
-* Slide out navigation for mobile/tablet devices <strong>(My mentor Simen Daehlin provided me this JavaScript code)</strong>
+* Slide in navigation for mobile/tablet devices <strong>(My mentor Simen Daehlin provided me this JavaScript code)</strong>
 * Interactive youtube videos
 * Popping buttons and menu items (hover.css)
 
@@ -144,26 +144,26 @@ on Balsamiq to show how structurally elements would appear on the page for diffe
 * <a href="https://imagecompressor.com">Optimizilla</a>
 
 ### Testing planning + Testing stories:
-The most of the testing has been conducted in GitPod but I also have used chrome dev tools to inpspect
+The most of the testing has been conducted in GitPod but I also have used chrome dev tools to inspect
 layout of my page on mobile device and tablet.
 
 All testing has been done manually clicking and typing into provided contact us form. 
 
 #### Home page:
 
-I tested if all navigation bar links work and sends user to a correct section of page. 
+I tested if all navigation bar links work and send user to a correct section of page. 
 
-I added JavaScript code to make expanded navigation bar close up while scrolling through website on mobile
-devices. 
+I added JavaScript (Provided by my mentor Simen Daehlin) code to make expanded navigation bar slide up then one of menu items is picked then
+user is using tablet or mobile device. 
 
-1. Click navigation bar links. DO they take you to the correct section of the page?
+1. Click navigation bar links. Do they take you to the correct section of the page?
 2. Click on a logo image. Does it take you to home page? 
 3. Resize the window. Does toggle icon appear and your menu works then it is clicked?
 4. Click 'Read more' button. Does it take you to page section 'About us'?
 
 #### About Us:
 
-In this section I wanted to have only short paragraph and images of member. I wanted paragraph to
+In this section I wanted to have only short paragraph and images of band's members. I wanted paragraph to
 be on the left side of page and images on the right. The best helper in this case was bootstrap grid 
 system. I just have to make sure that iamges and paragraph align in a way I wanted them. I was testing
 it manually resizing in google chrome inspect option.
@@ -172,24 +172,25 @@ it manually resizing in google chrome inspect option.
 
 #### Media:
 
-This section of page has to have two videos embedded from youtube.com website and I wanted to have
+This section of page had to have two videos embedded from youtube.com website and I wanted to have
 them next to each other. On a smaller devices my plan was to have them stacked on each other. The 
 most testing in this section has been done by making sure that videos are responsive via pc, tablet 
-and mobile device. Knowing that these media files are videos I have to test that they are working 
-and can be viewed on the website.
+and mobile device. Knowing that these media files are videos I had to test that they were working 
+and could be viewed on the website.
 
-1. Resize the window. Do embedded videos are responsive depending of device size?
+1. Resize the window. Do embedded videos are responsive depending on device size?
 2. Play video. Do videos play on a website? Can you go to youtube.com website and watch it there?
 
 #### Contact Us:
 
-Contact us section purpose is to get a qoutes form fans of a band or everyone interested into band's 
-movememts. User has to type in his email address, name and suggestions he has in mind for band. 
-The testing I conducted on this form is to make sure all fields do work as expected and 'submit project' 
-button send you back to home page.
+Contact us section purpose is to get messages from fans of a band or everyone interested into band's 
+movememts. User had to type in his email address, name and message he had in mind for band. 
+The testing I conducted on this form was to make sure all fields worked as expected and 'submit' 
+button sent you back to home page.
 
 1. Type in wrong type of email. Does field show rules of email address?
-2. Type in all information and press 'submit project' button. Does it send you to home page?
+2. Type in all information and press 'submit' button. Does it send you to home page?
+3. Do not fill any field and press submit button. Do you get a message that you have to fill form with information?
 
 # Deployment:
 
@@ -223,9 +224,9 @@ Cloning Linkin Park fan page from GitHub:
 
 # Closing Notes:
 
-Developing this project first time I have used <strong>Bootstrap</strong> which I find was so helpful and capable to helper.
-Then I get a hang on grid system I thought to myself that is such a briliant thing and so handy for any website developer. 
-It helps so much with layout of page and it can be very mobile device friendly. For the further development of this project 
+Developing this project first time I have used <strong>Bootstrap</strong> which I find was so helpful and capable helper.
+Then I got a hang on grid system I thought to myself that it is such a briliant thing and so handy for any website developer. 
+It helped so much with layout of page and was mobile device friendly. For the further development of this project 
 I would probably try to add more styling features such as zoom-in while image is clicked, sliding in heading of the page and
 maybe carousel for images to have an album not only couple images. I managed to make it work on all sizes of devices which I 
 think was a challange for me and user was happy to see all the content on any device it has been tried on. 
