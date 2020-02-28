@@ -35,6 +35,10 @@ files to create a better picture for new fans too.
 * Capability to send message cia contact form
 * Interact with the website on Desktop, Tablet and mobile 
 
+### User Stories:
+
+
+
 ### Site Owner Goals:
 * To provide suitable and not too crowded website for users interested in band
 * To attract new and current fans 
