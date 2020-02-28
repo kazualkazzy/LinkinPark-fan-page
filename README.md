@@ -42,10 +42,15 @@ files to create a better picture for new fans too.
 this band so I am always keen on any website which has any information provided. I am personally prefer mobile devices and give priority 
 for mobile first websites."</em>
 
-##### John M.: 
-<em>"As being a new fan of this band I was interested into informative and too crowded with information websites. I just was looking
-for a place in a web to read more about this band, see pictures of band members and possible videos to watch to get to know them more. I was 
+##### Diana R.: 
+<em>"As being a new fan of this band I was interested into informative and too crowded with information website. I just was looking
+for a place in a web to read more about this band, see pictures of band members and possible videos to watch to get to know them more. It was 
 handy for me that I could fill the form to get in touch with webiste owner to find out more."</em>
+
+##### Diana R.: 
+<em>"In todays web world you can find so much information that you can get lost and in website like this everything is in one place.
+I am finding most of the websites too colourful and you are getting lost in colours and pictures."</em>
+
 
 ### Site Owner Goals:
 * To provide suitable and not too crowded website for users interested in band
