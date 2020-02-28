@@ -37,7 +37,15 @@ files to create a better picture for new fans too.
 
 ### User Stories:
 
+##### John M.: 
+<em>"I am a big fan of this band and I am always researching what is happening in a band's life. I admire and adore
+this band so I am always keen on any website which has any information provided. I am personally prefer mobile devices and give priority 
+for mobile first websites."</em>
 
+##### John M.: 
+<em>"As being a new fan of this band I was interested into informative and too crowded with information websites. I just was looking
+for a place in a web to read more about this band, see pictures of band members and possible videos to watch to get to know them more. I was 
+handy for me that I could fill the form to get in touch with webiste owner to find out more."</em>
 
 ### Site Owner Goals:
 * To provide suitable and not too crowded website for users interested in band
