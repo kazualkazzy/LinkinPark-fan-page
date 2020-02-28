@@ -40,13 +40,13 @@ this band so I am always keen on any website which has any information provided.
 for mobile first websites."</em>
 
 ##### Diana R.: 
-<em>"As being a new fan of this band I was interested into informative and too crowded with information website. I just was looking
-for a place in a web to read more about this band, see pictures of band members and possible videos to watch to get to know them more. It was 
-handy for me that I could fill the form to get in touch with webiste owner to find out more."</em>
+<em>"As being a new fan of this band I was interested into informative and not too crowded website. I just was looking
+for a place in a web to read more about this band, see pictures of band members and videos to watch to get to know them more. It was 
+handy for me that I could fill the form to get in touch with website owners to find out more."</em>
 
 ##### Mr James: 
-<em>"In todays web world you can find so much information that you can get lost and in website like this everything is in one place.
-I am finding most of the websites too much into your face and you are getting lost in colours and pictures."</em>
+<em>"In todays web world you can find so much information but in website like this, everything was in one place.
+I was finding most of the websites too much into my face and you were getting lost in colours and pictures."</em>
 
 
 ### Site Owner Goals:
