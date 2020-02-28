@@ -9,15 +9,12 @@
         * Icons
         * Colours
         * Styling
-        * Images
-        * Backgrounds
+        * Images + Background
     * Wireframes 
     * Features 
         * Features that have been developed
-        *  Features that will be implemented in the future
     * Technologies Used 
-    * Testing 
-    * Bugs 
+    * Testing planning + Testing stories 
     * Deployment 
     * Credits 
 
@@ -47,9 +44,9 @@ for mobile first websites."</em>
 for a place in a web to read more about this band, see pictures of band members and possible videos to watch to get to know them more. It was 
 handy for me that I could fill the form to get in touch with webiste owner to find out more."</em>
 
-##### Diana R.: 
+##### Mr James: 
 <em>"In todays web world you can find so much information that you can get lost and in website like this everything is in one place.
-I am finding most of the websites too colourful and you are getting lost in colours and pictures."</em>
+I am finding most of the websites too much into your face and you are getting lost in colours and pictures."</em>
 
 
 ### Site Owner Goals:
