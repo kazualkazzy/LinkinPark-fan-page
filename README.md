@@ -64,10 +64,10 @@ The theme of this project is a Linkin Park fans website. Knowing that this is al
 better atmosphere which suits band itself.
 
 ### Fonts:
-My first choice of font was <a href="https://fonts.google.com/?query=Martel+Sans&selection.family=Lato">Martel+Sans</a> because it looks
+My first choice of font was <a href="https://fonts.google.com/?query=Martel+Sans&selection.family=Lato">Martel Sans</a> because it looks
 tidy and neat but also has soft edges to make text look not too heavy for a reader.
 
-I also used another font which was <a href="https://fonts.google.com/?query=Josefin+Sans&selection.family=Lato">Josefin+Sans</a> for short biography paragraph of Linkin Park band. 
+I also used another font which was <a href="https://fonts.google.com/?query=Josefin+Sans&selection.family=Lato">Josefin Sans</a> for short biography paragraph of Linkin Park band. 
 I wanted paragraph to stand out a little bit and this font was perfect for that.
 
 ### Icons:
@@ -100,7 +100,8 @@ I found images on random websites via google search.
 
 # Wireframes:
 I built wireframes for this project using <a href="https://balsamiq.com/">Balsamiq</a> mockups. I created basic wireframes for Mobile/Tablet/Desktop
-on Balsamiq to show how structurally elements would appear on the page for different devices.
+on Balsamiq to show how structurally elements would appear on the page for different devices. Wireframes can be found by clicking this link in my repository:
+<a href="https://github.com/vaida898/LinkinPark-fan-page/tree/master/wireframes">Wireframes</a>
 
 # Features:
 
