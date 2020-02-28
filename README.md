@@ -74,15 +74,15 @@ I was finding most of the websites too much into my face and you were getting lo
 * Contact Us form works correctly
 
 # Design Choices:
-The theme of this project is a Linkin Park fans website. Knowing that this is alternative rock band colour scheme was picked to create 
+The theme of this project is a Linkin Park fans website. Knowing that this is alternative rock band, colour scheme was picked to create 
 better atmosphere which suits band itself.
 
 ### Fonts:
 My first choice of font was <a href="https://fonts.google.com/?query=Martel+Sans&selection.family=Lato">Martel Sans</a> because it looks
 tidy and neat but also has soft edges to make text look not too heavy for a reader.
 
-I also used another font which was <a href="https://fonts.google.com/?query=Josefin+Sans&selection.family=Lato">Josefin Sans</a> for short biography paragraph of Linkin Park band. 
-I wanted paragraph to stand out a little bit and this font was perfect for that.
+I also used another font which was <a href="https://fonts.google.com/?query=Josefin+Sans&selection.family=Lato">Josefin Sans</a> for short biography paragraph 
+of Linkin Park band. I wanted paragraph to stand out a little bit and this font was perfect for that.
 
 ### Icons:
 The icons used as social links in footer section. They are all known social website's icons. I used 'font-awesome' 'Facebook', 'Instagram', 'Twitter'
