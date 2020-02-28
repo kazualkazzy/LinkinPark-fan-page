@@ -216,6 +216,8 @@ I would probably try to add more styling features such as zoom-in while image is
 maybe carousel for images to have an album not only couple images. I managed to make it work on all sizes of devices which I 
 think was a challange for me and user was happy to see all the content on any device it has been tried on. 
 
+This project is created only for educational purpose to show admiration for this band.
+
 # Credits:
 
 * <a href="https://htmlcolorcodes.com/color-names/">Colour names and codes</a>
