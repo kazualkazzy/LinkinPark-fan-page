@@ -22,8 +22,8 @@
 
 ## Project Goals
 The goal of this project is to provide information about well known altrenative rock band Linkin Park. The website has to be attractive 
-and informative for users and fans interested in this band. Because it is a fan page it has to have pictures of band members and media 
-files to create a better picture for new fans too.
+and informative for users interested in this band. Because it is a website for current and new fans it has to have pictures of band members and media 
+files to create a better picture of band.
 
 ### User Goals:
 * The website is easy to use and is User Friendly
