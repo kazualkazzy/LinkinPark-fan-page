@@ -107,7 +107,7 @@ on Balsamiq to show how structurally elements would appear on the page for diffe
 
 # Features:
 
-* Slide out navigation for mobile/tablet devices
+* Slide out navigation for mobile/tablet devices <strong>(My mentor Simen Daehlin provided me this JavaScript code)</strong>
 * Interactive youtube videos
 * Popping buttons and menu items (hover.css)
 
