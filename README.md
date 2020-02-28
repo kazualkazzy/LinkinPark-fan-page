@@ -87,7 +87,8 @@ Thanks to SASS/SCSS I was easily able to set variables in my stylesheets that as
 having to repeat code. Using SASS also allowed me to better structure my stylesheets.
 
 ### Images + Background:
-The background image I chose to on the banner I found via google search typing bands name but link to it can be found in Credts section.
+The background image I chose to on the banner I found via google search typing bands name and link to it can be found in Credts section. Because image
+was really big I have to use <a href="https://imagecompressor.com">Optimizilla</a> to resize it.
 More images can be found in About Us section of website and they are member's pictures for new and current band fans to recognise them in media.
 
 I found images on random websites via google search. 
@@ -126,6 +127,7 @@ on Balsamiq to show how structurally elements would appear on the page for diffe
 * <a href="https://mdbootsrap.com">MDbootstrap</a>
 * <a href="https://jquery.com/">jQuery</a>
 * <a href="https://ianlunn.github.io/Hover/">Hover.css</a>
+* <a href="https://imagecompressor.com">Optimizilla</a>
 
 ### Testing planning + Testing stories:
 The most of the testing has been conducted in GitPod but I also have used chrome dev tools to inpspect
