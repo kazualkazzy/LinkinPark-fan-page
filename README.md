@@ -29,8 +29,8 @@ files to create a better picture of band.
 * The website is easy to use and is User Friendly
 * Information on website is readable and easy to understand
 * Added pictures and videos are interactive and clear
-* Capability to send message cia contact form
-* Interact with the website on Desktop, Tablet and mobile 
+* Capability to send message via contact form
+* Interact with the website on Desktop, Tablet and Mobile 
 
 ### User Stories:
 
