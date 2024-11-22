@@ -21,8 +21,8 @@
 # UX (User experience)
 
 ## Project Goals
-The goal of this project is to provide information about well known altrenative rock band Linkin Park. The website has to be attractive 
-and informative for users interested in this band. Because it is a website for current and new fans it has to have pictures of band members and media 
+The goal of this project is to provide information about well known alternative rock band Linkin Park. The website has to be attractive 
+and informative for users interested in this band. Because it is a website for current and new fans it, has to have pictures of band members and media 
 files to create a better picture of band.
 
 ### User Goals:
@@ -64,13 +64,13 @@ I was finding most of the websites too much into my face and you were getting lo
 * Contact form validation to get in touch with band
 
 ### Expectations:
-* Choisen menu options leads to a correct section of the website
+* Chosen menu options leads to a correct section of the website
 * Can click on a buttons and get expected response
 * Watch videos on a website
 * Content is visually approachable 
 * Pop out nav appears in place of navbar on Tablet + Mobile devices
 * Quick Links takes to a wanted part of the website
-* Social Links responds as suspected
+* Social Links responds as expected
 * Contact Us form works correctly
 
 # Design Choices:
@@ -144,7 +144,7 @@ on Balsamiq to show how structurally elements would appear on the page for diffe
 * <a href="https://imagecompressor.com">Optimizilla</a>
 
 ### Testing planning + Testing stories:
-The most of the testing has been conducted in GitPod but I also have used chrome dev tools to inspect
+Most of the testing has been conducted in GitPod but I also have used chrome dev tools to inspect
 layout of my page on mobile device and tablet.
 
 All testing has been done manually clicking and typing into provided contact us form. 
